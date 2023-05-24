@@ -492,6 +492,11 @@ body {
   border: 1px #2196f3 solid;
 }
 
+.icon-clients-background:focus > .client-logo,
+.icon-clients-background:hover > .client-logo {
+  fill: #2196f3;
+}
+
 .client-logo {
   fill: #afb1b8;
 }
