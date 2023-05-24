@@ -153,6 +153,23 @@ body {
   cursor: pointer;
 }
 
+.portfolio-box-topic {
+  color: #212121;
+  cursor: pointer;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+}
+
+.portfolio-box-topic:hover,
+.portfolio-box-topic:focus {
+  color: #2196f3;
+  cursor: pointer;
+}
+
 .studio-2 {
   color: #ffffff;
 }
