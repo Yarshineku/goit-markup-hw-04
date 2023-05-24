@@ -162,6 +162,8 @@ body {
   font-size: 18px;
   line-height: 36px;
   letter-spacing: 0.06em;
+  padding-left: 24px;
+  padding-right: 24px;
 }
 
 .portfolio-box-topic:hover,
