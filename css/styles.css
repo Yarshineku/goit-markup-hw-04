@@ -458,11 +458,9 @@ body {
   font-size: 36px;
   line-height: 42px;
   text-align: center;
-  letter-spacing: 0.03em;
   color: #212121;
 }
 
 .clients-section {
-  width: 1170px;
-  height: 184px;
+  list-style: none;
 }
