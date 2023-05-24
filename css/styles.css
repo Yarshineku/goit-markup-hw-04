@@ -486,3 +486,8 @@ body {
   margin-left: 64px;
   margin-right: 65px;
 }
+
+.icon-clients-background:focus,
+.icon-clients-background:hover {
+  border: 1px #2196f3 solid;
+}
