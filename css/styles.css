@@ -448,3 +448,8 @@ body {
 .icon-smartphone:focus {
   fill: #2196f3;
 }
+
+.our-clients {
+  width: 201px;
+  height: 42px;
+}
