@@ -450,6 +450,7 @@ body {
 }
 
 .our-clients {
+  padding: 0 auto;
   width: 201px;
   height: 42px;
   font-family: "Roboto";
@@ -458,6 +459,7 @@ body {
   font-size: 36px;
   line-height: 42px;
   text-align: center;
+  letter-spacing: 0.03em;
   color: #212121;
 }
 
