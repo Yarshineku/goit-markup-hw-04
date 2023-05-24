@@ -255,7 +255,6 @@ body {
   justify-content: flex-start;
   align-items: center;
   display: flex;
-  gap: 50px;
 }
 
 .e-mail-footer:hover,
