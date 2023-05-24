@@ -459,6 +459,7 @@ body {
   font-size: 36px;
   line-height: 42px;
   text-align: center;
+  letter-spacing: 0.03em;
   color: #212121;
 }
 
@@ -472,3 +473,5 @@ body {
 .clients-section {
   padding: 94px 214px;
 }
+
+.icon-clients-links[];
