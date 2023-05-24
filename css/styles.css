@@ -403,6 +403,8 @@ body {
   border: solid 1px;
   border-color: #eeeeee;
   margin: 0 auto;
+  height: 404px;
+  width: 370px;
 }
 
 .box-description {
