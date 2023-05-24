@@ -436,7 +436,7 @@ body {
 
 .envelope-icon:hover,
 .envelope-icon:focus {
-  color: #2196f3;
+  fill: #2196f3;
 }
 
 .icon-smartphone {
