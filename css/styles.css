@@ -487,6 +487,39 @@ body {
   margin-right: 65px;
 }
 
+.clients-icon-logo-1 {
+  margin-top: 20.71px;
+  margin-bottom: 19.29px;
+  margin-left: 65px;
+  margin-right: 65px;
+}
+
+.clients-icon-logo-2 {
+  margin-top: 24.7px;
+  margin-bottom: 26.12px;
+  margin-left: 61.88px;
+  margin-right: 64.86px;
+}
+.clients-icon-logo-3 {
+  margin-top: 24.7px;
+  margin-bottom: 26.68px;
+  margin-left: 43px;
+  margin-right: 42.56px;
+}
+
+.clients-icon-logo-5 {
+  margin-top: 22.77px;
+  margin-bottom: 23.8px;
+  margin-left: 54px;
+  margin-right: 53.46px;
+}
+.clients-icon-logo-6 {
+  margin-top: 22.77px;
+  margin-bottom: 25.31px;
+  margin-left: 38px;
+  margin-right: 38.21px;
+}
+
 .icon-clients-background:focus,
 .icon-clients-background:hover {
   border: 1px #2196f3 solid;
