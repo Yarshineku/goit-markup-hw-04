@@ -605,3 +605,10 @@ body {
 .social-icons-links-team:hover .social-icons-links-team:focus {
   background-color: #2196f3;
 }
+
+.icon-background-advantages {
+  width: 270px;
+  height: 120px;
+  background-color: #f5f4fa;
+  margin-bottom: 30px;
+}
