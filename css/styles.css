@@ -553,4 +553,6 @@ body {
 
 .footer-social-links {
   list-style: none;
+  display: flex;
+  justify-content: space-between;
 }
