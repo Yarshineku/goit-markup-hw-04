@@ -534,11 +534,10 @@ body {
 }
 .footer-interior-2 {
   display: flex;
-  flex-wrap: wrap;
-  align-content: center;
   width: 206px;
   height: 80px;
   margin-top: 72px;
+  margin-bottom: 100px;
 }
 
 .join-us {
