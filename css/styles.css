@@ -595,3 +595,12 @@ body {
   margin: 12px;
   fill: #afb1b8;
 }
+
+.social-icons-links-team:hover > .social-icon-team,
+.social-icons-links-team:focus > .social-icon-team {
+  fill: #fff;
+}
+
+.social-icons-links-team:hover .social-icons-links-team:focus {
+  background: #2196f3;
+}
