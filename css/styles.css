@@ -583,6 +583,7 @@ body {
   margin: auto;
   margin-bottom: 18px;
   list-style: none;
+  padding-left: 0;
 }
 
 .social-icons-links-team {
