@@ -533,10 +533,11 @@ body {
   fill: #afb1b8;
 }
 .footer-interior-2 {
-  display: inline-block;
   display: flex;
+  align-content: center;
   width: 206px;
   height: 80px;
+  margin-top: 72px;
 }
 
 .join-us {
@@ -553,4 +554,5 @@ body {
 }
 
 .footer-social-links {
+  list-style: none;
 }
