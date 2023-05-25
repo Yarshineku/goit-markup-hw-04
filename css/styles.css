@@ -536,9 +536,7 @@ body {
   display: flex;
   width: 206px;
   height: 80px;
-  margin-top: 72px;
   margin-left: 531px;
-  margin-bottom: 200px;
 }
 
 .join-us {
@@ -565,4 +563,10 @@ body {
   width: 44px;
   height: 44px;
   border-radius: 50%;
+  background-color: #ffffff1a;
+}
+
+.social-icon-footer {
+  fill: #fff;
+  margin: 12px;
 }
