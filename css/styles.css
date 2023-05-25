@@ -534,6 +534,7 @@ body {
 }
 .footer-interior-2 {
   display: inline-block;
+  display: flex;
   width: 206px;
   height: 80px;
 }
