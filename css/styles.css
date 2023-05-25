@@ -537,7 +537,7 @@ body {
   width: 206px;
   height: 80px;
   margin-left: 531px;
-  margin-bottom: 100px;
+  padding-bottom: 100px;
 }
 
 .join-us {
@@ -557,4 +557,7 @@ body {
   list-style: none;
   display: flex;
   justify-content: space-between;
+}
+
+.footer-social-icons {
 }
