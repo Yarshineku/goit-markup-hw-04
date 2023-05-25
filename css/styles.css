@@ -575,3 +575,23 @@ body {
   fill: #fff;
   margin: 12px;
 }
+
+.social-links-team {
+  display: flex;
+  max-width: 206px;
+  justify-content: space-around;
+  margin: auto;
+  margin-bottom: 18px;
+  list-style: none;
+}
+
+.social-icons-links-team {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+}
+
+.social-icon-team {
+  margin: 12px;
+  fill: #afb1b8;
+}
