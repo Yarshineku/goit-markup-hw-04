@@ -532,3 +532,20 @@ body {
 .client-logo {
   fill: #afb1b8;
 }
+.footer-interior-2 {
+  width: 206px;
+  height: 80px;
+}
+
+.join-us {
+  width: 113px;
+  height: 16px;
+  color: #ffffff;
+  margin-bottom: 20px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+}
