@@ -566,6 +566,11 @@ body {
   background-color: #ffffff1a;
 }
 
+.footer-social-icons:hover,
+.footer-social-icons:focus {
+  background-color: #2196f3;
+}
+
 .footer-icon {
   fill: #fff;
   margin: 12px;
