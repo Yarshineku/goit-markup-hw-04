@@ -536,8 +536,9 @@ body {
   display: flex;
   width: 206px;
   height: 80px;
+  margin-top: 72px;
   margin-left: 531px;
-  padding-bottom: 100px;
+  margin-bottom: 200px;
 }
 
 .join-us {
