@@ -533,6 +533,7 @@ body {
   fill: #afb1b8;
 }
 .footer-interior-2 {
+  display: inline-block;
   width: 206px;
   height: 80px;
 }
@@ -548,4 +549,7 @@ body {
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.03em;
+}
+
+.footer-social-links {
 }
