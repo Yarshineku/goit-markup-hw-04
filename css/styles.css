@@ -252,7 +252,6 @@ body {
 .e-mail-footer {
   color: #757575;
   text-decoration: none;
-  justify-content: flex-start;
   align-items: center;
   display: flex;
 }
