@@ -611,4 +611,5 @@ body {
   background-color: #f5f4fa;
   margin-bottom: 30px;
   display: flex;
+  list-style: none;
 }
