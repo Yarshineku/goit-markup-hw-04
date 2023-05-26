@@ -269,32 +269,48 @@ body {
   margin: 0 auto;
   padding: 0;
 }
-
-.lorem {
-  color: #212121;
-  font-weight: 700;
-  font-size: 16px;
+.mantra-main-word {
+  margin: 0 30px 94px 0;
+}
+.mantra {
+  font-size: 14px;
+  line-height: 1.14;
   letter-spacing: 0.03em;
-  line-height: 1.1;
-  margin-top: 0;
+  text-transform: uppercase;
   margin-bottom: 10px;
 }
-
-.ul-lorem {
-  list-style: none;
+.mantra-block {
   display: flex;
-  gap: 30px;
-  justify-content: center;
-  padding: 0;
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
-
-.lorem-description {
+.mantra-text {
   color: #757575;
   font-size: 14px;
   letter-spacing: 0.03em;
   line-height: 1.7;
   margin-top: 0;
   margin-bottom: 0;
+  font-weight: 400;
+}
+
+.icons-advantages {
+  margin: 25px 100px;
+}
+.icon-background-advantages {
+  width: 270px;
+  height: 120px;
+  background-color: #f5f4fa;
+  margin-bottom: 30px;
+  display: flex;
+  list-style: none;
+}
+
+.antenna-1 {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 102.34px;
+  margin-right: 102.34px;
 }
 
 .our-team {
@@ -603,25 +619,4 @@ body {
 
 .social-icons-links-team:hover .social-icons-links-team:focus {
   background-color: #2196f3;
-}
-
-.advantages {
-  margin: 0 30px 94px 0;
-  list-style: none;
-  display: flex;
-}
-.icon-background-advantages {
-  width: 270px;
-  height: 120px;
-  background-color: #f5f4fa;
-  margin-bottom: 30px;
-  display: flex;
-  list-style: none;
-}
-
-.antenna-1 {
-  margin-top: 25px;
-  margin-bottom: 25px;
-  margin-left: 102.34px;
-  margin-right: 102.34px;
 }
