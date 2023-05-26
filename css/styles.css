@@ -281,6 +281,7 @@ body {
 }
 .mantra-block {
   display: flex;
+  list-style: none;
 }
 .mantra-text {
   color: #757575;
