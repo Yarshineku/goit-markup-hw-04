@@ -281,8 +281,6 @@ body {
 }
 .mantra-block {
   display: flex;
-  padding-top: 94px;
-  padding-bottom: 94px;
 }
 .mantra-text {
   color: #757575;
