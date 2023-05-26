@@ -548,9 +548,9 @@ body {
   fill: #afb1b8;
 }
 .footer-interior-2 {
-  display: inline-block;
-  width: 206px;
-  height: 80px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 350px;
 }
 
 .join-us {
