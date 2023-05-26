@@ -608,6 +608,7 @@ body {
 .advantages {
   margin: 0 30px 94px 0;
   list-style: none;
+  display: flex;
 }
 .icon-background-advantages {
   width: 270px;
