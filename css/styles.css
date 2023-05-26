@@ -617,6 +617,9 @@ body {
   fill: #fff;
 }
 
-.social-icons-links-team:hover > .social-icons-links-team:focus {
+.social-icons-links-team:hover {
+  background-color: #2196f3;
+}
+.social-icons-links-team:focus {
   background-color: #2196f3;
 }
