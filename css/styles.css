@@ -253,8 +253,6 @@ body {
 .e-mail-footer {
   color: #757575;
   text-decoration: none;
-  align-items: center;
-  display: flex;
 }
 
 .e-mail-footer:hover,
@@ -548,9 +546,6 @@ body {
   fill: #afb1b8;
 }
 .footer-interior-2 {
-  display: flex;
-  width: 206px;
-  height: 80px;
   margin-left: 531px;
 }
 
@@ -570,8 +565,6 @@ body {
 
 .footer-social-links {
   list-style: none;
-  display: flex;
-  justify-content: space-between;
 }
 
 .footer-social-icons {
