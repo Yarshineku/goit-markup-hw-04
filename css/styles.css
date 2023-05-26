@@ -227,6 +227,9 @@ body {
   padding: 200px 0;
   margin: 0 auto;
 }
+.shadow-box-slogan {
+  background: rgba(47, 48, 58, 0.4);
+}
 
 .footer-box {
   background: #2f303a;
