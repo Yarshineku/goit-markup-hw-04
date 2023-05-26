@@ -270,14 +270,14 @@ body {
   padding: 0;
 }
 .mantra-main-word {
-  margin: 0 30px 94px 0;
+  margin: 0 30px 10px 0;
 }
 .mantra {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
   margin-bottom: 10px;
+  list-style: none;
 }
 .mantra-block {
   display: flex;
