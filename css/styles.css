@@ -618,3 +618,10 @@ body {
   display: flex;
   list-style: none;
 }
+
+.antenna-1 {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 102.34px;
+  margin-right: 102.34px;
+}
