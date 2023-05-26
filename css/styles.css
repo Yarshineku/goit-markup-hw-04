@@ -605,6 +605,10 @@ body {
   background-color: #2196f3;
 }
 
+.advantages {
+  margin: 0 30px 94px 0;
+  list-style: none;
+}
 .icon-background-advantages {
   width: 270px;
   height: 120px;
