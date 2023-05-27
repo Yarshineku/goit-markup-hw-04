@@ -627,3 +627,7 @@ body {
 .social-icons-links-team:focus {
   background-color: #2196f3;
 }
+
+.two-footer-box {
+  display: flex;
+}
