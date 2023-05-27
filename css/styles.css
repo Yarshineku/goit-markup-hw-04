@@ -554,6 +554,7 @@ body {
   fill: #afb1b8;
 }
 .footer-interior-2 {
+  margin-left: 70px;
 }
 
 .join-us {
@@ -568,13 +569,13 @@ body {
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.03em;
-  margin-left: 50px;
 }
 
 .footer-social-links {
   list-style: none;
   gap: 10px;
   display: flex;
+  padding: 0;
 }
 
 .footer-social-icons {
